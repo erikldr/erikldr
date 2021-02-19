@@ -5,7 +5,9 @@
 
 **Estudos atuais**:
 > Séries temporais
+
 > Deep Learning
+
 > Sistemas de recomendação
 
 **Interesses de carreira**:
