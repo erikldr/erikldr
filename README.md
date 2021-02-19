@@ -5,13 +5,16 @@
 
 **Estudos atuais**:
 > Séries temporais
-
+> Redes Neurais
+> 
+> Redes Neurais Convolucionais
+> 
 > Deep Learning
-
+> 
 > Sistemas de recomendação
 
 **Interesses de carreira**:
->  Data Science
+>  Data Science, Data Analysis
 
 **Status:**
 
