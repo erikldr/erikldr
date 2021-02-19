@@ -5,12 +5,13 @@
 
 **Estudos atuais**:
 > Séries temporais
+>
 > Redes Neurais
-> 
+>
 > Redes Neurais Convolucionais
-> 
+>
 > Deep Learning
-> 
+>
 > Sistemas de recomendação
 
 **Interesses de carreira**:
