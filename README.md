@@ -15,7 +15,7 @@
 > Sistemas de recomendação
 
 **Interesses de carreira**:
->  Data Science, Data Analysis
+>  Data Science, Data Analysis, Data Engineer
 
 **Status:**
 
