@@ -4,14 +4,11 @@
 > Graduando em Sistemas de Informação
 
 **Estudos atuais**:
-> Séries temporais, 
+> Visão Computacional,
 > Redes Neurais, 
 > Redes Neurais Convolucionais, 
 > Deep Learning, 
-> Sistemas de recomendação
 
-**Interesses de carreira**:
->  Data Science, Data Analysis, Data Engineer
 
 **Projetos Relevantes:**
 > [Artigo que escrevi tendo o meu TCC como base](https://sol.sbc.org.br/index.php/wvc/article/view/13489)
