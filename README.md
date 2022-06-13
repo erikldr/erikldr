@@ -4,8 +4,7 @@
 > Graduando em Sistemas de Informação
 
 **Estudos atuais**:
-> Visão Computacional,
-> Redes Neurais, 
+> Visão Computacional, 
 > Redes Neurais Convolucionais, 
 > Deep Learning, 
 
