@@ -1,5 +1,3 @@
-### Hi there 👋
-
 **Universidade Federal de Viçosa - Campus Rio Paranaíba (UFV-CRP)**:
 > Graduando em Sistemas de Informação
 
